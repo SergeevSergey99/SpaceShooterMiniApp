@@ -1,0 +1,12 @@
+/Build/*
+  Content-Type: application/wasm
+  Cache-Control: public, max-age=31536000
+  Content-Encoding: br
+
+/*.js
+  Content-Encoding: br
+  Cache-Control: public, max-age=31536000
+
+/*.data
+  Content-Encoding: br
+  Cache-Control: public, max-age=31536000
